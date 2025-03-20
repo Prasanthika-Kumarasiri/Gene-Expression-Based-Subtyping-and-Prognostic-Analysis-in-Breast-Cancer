@@ -1,0 +1,2 @@
+# Gene-Expression-Based-Subtyping-and-Prognostic-Analysis-in-Breast-Cancer
+This study focuses on classifying breast cancer subtypes using gene expression data and identifying key differentially expressed genes. Biological significance is examined to understand their role in cancer progression. The analysis also explores how breast cancer subtypes influence survival outcomes in relation to clinical attributes.
