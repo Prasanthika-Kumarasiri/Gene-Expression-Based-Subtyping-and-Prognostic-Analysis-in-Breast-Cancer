@@ -83,7 +83,7 @@ All analyses and visualisations were performed using **Bioconductor v3.17** (**B
 ![fig1B](https://github.com/user-attachments/assets/a2a63a00-378f-44ca-8a55-4ab3be0fd72a)
 
 
-Figure 1. Cluster analysis and diagnostics. (A) silhouette plot for breast cancer patients’ expression data. (B) Principal component analysis for expression data.!
+Figure 1. Cluster analysis and diagnostics. (A) silhouette plot for breast cancer patients’ expression data. (B) Principal component analysis for expression data.
 
 
 ## Heatmap
